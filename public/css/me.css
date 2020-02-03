@@ -1,0 +1,36 @@
+body{
+    background-color: #747469;
+}
+
+.jumbotron{
+    background-color: #ccffcc;
+    margin-top: 15%;
+}
+
+#me-textsize{
+    font-size: 700%;
+    padding-left: 20%;
+}
+
+.desribe-me-textsize{
+    padding-left: 37%;
+    font-size: 150%;
+}
+
+#desribe-me-textsize2{
+    padding-left: 42%;
+    font-size: 150%;
+}
+
+.text-white-50{
+    background-color: blueviolet;
+}
+
+.pb-3, .py-3{
+    padding-left: 2%;
+}
+
+.rounded{
+    margin-top: 5%;
+    margin-left: 25%;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "all_me",
+  "version": "1.0.0",
+  "description": "Website for my self",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Isiah Martin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.4.0",
+    "mongoose": "^5.8.11",
+    "nodemon": "^2.0.2"
+  }
+}
